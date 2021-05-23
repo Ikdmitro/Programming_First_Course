@@ -1,0 +1,5 @@
+﻿  App20.cpp
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App20\App20\render_blocks.h(68,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App20\App20\render_blocks.h(91,12): warning C4101: posY: неиспользованная локальная переменная
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App20\App20\render_blocks.h(91,6): warning C4101: posX: неиспользованная локальная переменная
+  App20.vcxproj -> C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App20\Debug\App20.exe

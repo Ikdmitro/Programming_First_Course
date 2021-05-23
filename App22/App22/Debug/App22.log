@@ -1,0 +1,8 @@
+﻿  App22.cpp
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App22\App22\tasks.h(2,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App22\App22\tasks.h(112,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App22\App22\tasks.h(322,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App22\App22\tasks.h(323,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App22\App22\tasks.h(330,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App22\App22\tasks.h(331,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  App22.vcxproj -> C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App22\Debug\App22.exe

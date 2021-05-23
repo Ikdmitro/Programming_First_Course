@@ -1,0 +1,13 @@
+﻿  App21.cpp
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App21\App21\tasks.h(24,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App21\App21\tasks.h(29,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App21\App21\tasks.h(55,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App21\App21\tasks.h(111,40): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App21\App21\tasks.h(125,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App21\App21\tasks.h(131,11): warning C4101: y: неиспользованная локальная переменная
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App21\App21\tasks.h(131,8): warning C4101: x: неиспользованная локальная переменная
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App21\App21\tasks.h(166,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App21\App21\tasks.h(167,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App21\App21\tasks.h(174,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App21\App21\tasks.h(175,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  App21.vcxproj -> C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App21\Debug\App21.exe

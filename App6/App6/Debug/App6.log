@@ -1,0 +1,4 @@
+﻿  App6.cpp
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App6\App6\App6.cpp(20,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App6\App6\App6.cpp(10,11): warning C4101: a: неиспользованная локальная переменная
+  App6.vcxproj -> C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App6\Debug\App6.exe

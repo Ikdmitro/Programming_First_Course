@@ -1,0 +1,4 @@
+﻿  App24.cpp
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App24\App24\App24.cpp(35,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App24\App24\App24.cpp(72,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  App24.vcxproj -> C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App24\Debug\App24.exe

@@ -1,0 +1,4 @@
+﻿  App15.cpp
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App15\App15\App15.cpp(19,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App15\App15\App15.cpp(32,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  App15.vcxproj -> C:\Users\godof\OneDrive\Рабочий стол\всякое\прога\App15\Debug\App15.exe
